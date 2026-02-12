@@ -1,11 +1,3 @@
-# Silent Ink
-
-Hide encrypted ZIP files inside images using secure steganography.
-
-Silent Ink is a modern CLI tool that embeds AES-256-GCM encrypted ZIP files into PNG images using LSB steganography.
-
-Made by **SadraCoding**
-
 ![border.png](media/border.png)
 
 ---
@@ -28,6 +20,7 @@ git clone https://github.com/SadraCoding/SilentInk.git
 cd SilentInk
 pip install pillow cryptography colorama
 python silent_ink.py
+```
 
 ## 👨‍💻 Author
 
