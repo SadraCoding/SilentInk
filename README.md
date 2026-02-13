@@ -25,6 +25,7 @@ python silent_ink.py
 ## 👨‍💻 Author
 
 Made with 🖤 by **SadraCoding**
+Dedicated to all Iranians killed by the Islamic Republic regime in the pursuit of freedom
 
 GitHub:  
 https://github.com/SadraCoding
