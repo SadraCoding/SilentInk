@@ -2,6 +2,12 @@
 
 ---
 
+### Download
+
+[![Download SilentInk v1.0 for Windows](https://img.shields.io/badge/download-v1.0%20Windows-blue?style=for-the-badge&logo=windows)](https://github.com/SadraCoding/SilentInk/releases/download/v1.0/silentink-v1.0-win.exe)
+
+---
+
 ## ✨ Features
 
 - 🔐 AES-256-GCM encryption
