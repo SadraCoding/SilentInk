@@ -3,9 +3,9 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/USERNAME/REPO/raw/main/border.png" width="70%" alt="border"/>
+  <img src="https://github.com/SadraCoding/SilentInk/raw/main/border.png" width="70%" alt="border"/>
   <br><br>
-  <img src="https://github.com/USERNAME/REPO/raw/main/icon.png" width="180" alt="icon"/>
+  <img src="https://github.com/SadraCoding/SilentInk/raw/main/icon.png" width="180" alt="icon"/>
 </p>
 
 ---
