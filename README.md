@@ -2,18 +2,7 @@
 
 ---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://raw.githubusercontent.com/SadraCoding/SilentInk/main/media/border-dark.png">
-    <img src="https://raw.githubusercontent.com/SadraCoding/SilentInk/main/media/border.png" 
-         width="60%" alt="border"/>
-  </picture>
-  
-  <img src="https://raw.githubusercontent.com/SadraCoding/SilentInk/main/media/icon.png" 
-       width="140" 
-       style="margin-top: -90px;"/>
-</div>
+![border.png](media/border.png)
 
 ---
 
