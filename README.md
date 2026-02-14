@@ -2,8 +2,11 @@
 
 ---
 
-![border.png](media/border.png)
-![icin.png](media/icon.png)
+<p align="center">
+  <img src="https://github.com/USERNAME/REPO/raw/main/border.png" width="70%" alt="border"/>
+  <br><br>
+  <img src="https://github.com/USERNAME/REPO/raw/main/icon.png" width="180" alt="icon"/>
+</p>
 
 ---
 
