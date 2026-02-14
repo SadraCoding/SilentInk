@@ -2,18 +2,18 @@
 
 ---
 
-<div align="center" style="position: relative; display: inline-block;">
-  <img src="https://raw.githubusercontent.com/SadraCoding/SilentInk/main/media/border.png" 
-       width="550" 
-       alt="frame"/>
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    <img src="https://raw.githubusercontent.com/SadraCoding/SilentInk/main/media/icon.png" 
-         width="160" 
-         alt="SilentInk logo"/>
-  </div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/SadraCoding/SilentInk/main/media/border-dark.png">
+    <img src="https://raw.githubusercontent.com/SadraCoding/SilentInk/main/media/border.png" 
+         width="60%" alt="border"/>
+  </picture>
+  
+  <img src="https://raw.githubusercontent.com/SadraCoding/SilentInk/main/media/icon.png" 
+       width="140" 
+       style="margin-top: -90px;"/>
 </div>
-
-<h2 align="center">SilentInk – Steganography Tool</h2>
 
 ---
 
